@@ -26,7 +26,7 @@ Building clean, scalable, and production-ready mobile applications.
 
 <div align="center">
 
-📱 Flutter Mobile App Developer &nbsp; | &nbsp; 🔥 Firebase & REST APIs &nbsp; | &nbsp; ⚙️ GetX &nbsp; | &nbsp; 🎨 UI/UX &nbsp; | &nbsp; 🚀 Production-ready Apps
+📱 Flutter Mobile App Developer &nbsp; | &nbsp; 🔥 Firebase & Supabase &nbsp; | &nbsp; 🌐 REST APIs &nbsp; | &nbsp; ⚙️ GetX &nbsp; | &nbsp; 🎨 UI/UX &nbsp; | &nbsp; 🚀 Production-ready Apps
 
 </div>
 
@@ -37,6 +37,7 @@ Building clean, scalable, and production-ready mobile applications.
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/UI%2FUX-111111?style=for-the-badge&logo=figma&logoColor=white" />
@@ -47,7 +48,7 @@ Building clean, scalable, and production-ready mobile applications.
 
 <div align="center">
 
-`📱 Flutter Apps` &nbsp; • &nbsp; `🔥 Firebase` &nbsp; • &nbsp; `🌐 REST APIs` &nbsp; • &nbsp; `⚙️ GetX` &nbsp; • &nbsp; `🎨 UI/UX` &nbsp; • &nbsp; `⚡ Performance`
+`📱 Flutter Apps` &nbsp; • &nbsp; `🔥 Firebase` &nbsp; • &nbsp; `🗄️ Supabase` &nbsp; • &nbsp; `🌐 REST APIs` &nbsp; • &nbsp; `⚙️ GetX` &nbsp; • &nbsp; `🎨 UI/UX` &nbsp; • &nbsp; `⚡ Performance`
 
 </div>
 
@@ -55,7 +56,7 @@ Building clean, scalable, and production-ready mobile applications.
 
 <div align="center">
 
-`🔐 Authentication` &nbsp; • &nbsp; `☁️ Firestore` &nbsp; • &nbsp; `🔗 REST APIs` &nbsp; • &nbsp; `🔔 Notifications`
+`🔐 Authentication` &nbsp; • &nbsp; `☁️ Firestore` &nbsp; • &nbsp; `🗄️ Supabase` &nbsp; • &nbsp; `🔗 REST APIs` &nbsp; • &nbsp; `🔔 Notifications`
 
 `📍 Maps` &nbsp; • &nbsp; `💬 Chat` &nbsp; • &nbsp; `🎨 Clean UI` &nbsp; • &nbsp; `⚡ Performance`
 
